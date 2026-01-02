@@ -3,7 +3,7 @@
 A modern, responsive Expense Tracker Web Application built using Vanilla JavaScript, HTML, CSS, and Chart.js.
 The app helps users track daily expenses, manage weekly & monthly budgets, and visualize spending patterns with interactive charts — all stored securely using LocalStorage.
 
-🔗 Live Demo: https://oopsispent.netlify.app/
+🔗 Live Demo: https://kharcha-meter.netlify.app/
 
 📁 GitHub Repository: https://github.com/kanaksahu111/oops-i-spent
 
